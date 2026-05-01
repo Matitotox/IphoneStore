@@ -33,7 +33,7 @@ export function Header() {
             href="#"
             className="hidden sm:inline-flex items-center justify-center px-4 py-2 text-sm font-medium bg-foreground text-background rounded-xl hover:bg-foreground/90 transition-colors"
           >
-            WhatsA
+            WhatsApp
           </a>
         </div>
       </div>
